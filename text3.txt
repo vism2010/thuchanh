@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 thinh la oc cho
+=======
+thinh la oc cho
+xin loi may thinh
+>>>>>>> origin/thinh_cay_bim
